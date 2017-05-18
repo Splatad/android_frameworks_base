@@ -46,7 +46,7 @@ import com.android.systemui.tuner.TunerService.Tunable;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import cyanogenmod.providers.CMSettings;
+import lineageos.providers.CMSettings;
 
 /** View that represents the quick settings tile panel. **/
 public class QSPanel extends LinearLayout implements Tunable, Callback {
